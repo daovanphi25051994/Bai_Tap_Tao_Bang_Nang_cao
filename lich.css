@@ -1,0 +1,38 @@
+.container {
+    width: 1920px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.table{
+    width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+td {
+    border: gray 1px solid;
+}
+.title-red {
+    color: white;
+    background: red;
+}
+.title-yellow {
+    color: white;
+    background: orange;
+}
+.title-blue {
+    color: white;
+    background: blue;
+}
+.color-red {
+    color: red;
+}
+.color-black {
+    color: black;
+}
+.color-blue {
+    color: blue;
+}

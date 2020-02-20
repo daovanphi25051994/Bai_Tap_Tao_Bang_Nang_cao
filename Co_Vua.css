@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+}
+table {
+    margin: 0 auto;
+    background: orange;
+    text-align: center;
+}
+.black {
+    background: black;
+}
+.white {
+    background: white;
+}
+td {
+    height: 100px;
+    width: 100px;
+}
+.alpha {
+    width: 40px;
+}
